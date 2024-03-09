@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8a28c39a-73d7-43ec-b691-26cc0c93ccf1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/TP02/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP02/.idea/TP02.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP02/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP02/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP02/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP02/double-image/.dockerignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP02/double-image/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP02/double-image/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP02/double-image/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP02/double-image/.idea/wik-dps-tp01-correction-ts.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP02/double-image/.nvmrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP02/double-image/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP02/double-image/build/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP02/double-image/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP02/double-image/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP02/double-image/reports/report.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP02/double-image/reports/reportcves.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP02/double-image/reports/reportrecommandations.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP02/double-image/src/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP02/double-image/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP02/single-image/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP02/single-image/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP02/single-image/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP02/single-image/.idea/wik-dps-tp01-correction-ts.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP02/single-image/.nvmrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP02/single-image/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP02/single-image/build/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP02/single-image/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP02/single-image/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP02/single-image/reports/report.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP02/single-image/reports/reportcves.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP02/single-image/reports/reportrecommendations.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP02/single-image/src/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP02/single-image/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP03/.dockerignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP03/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP03/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP03/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TP03/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP03/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP03/build/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP03/docker-compose.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP03/multi-scan.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP03/multi-stage.dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP03/nginx.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP03/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP03/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP03/scan-multi.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP03/scan-single.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP03/single-stage.dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP03/src/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP03/templates/default.conf.template" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP03/tsconfig.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/TP03/TP-03-Defi" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2YM2g8RumzMYCkaInwnjS2PoYPm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/Cours/Ynov/DevOps",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "D:\\Cours\\Ynov\\DevOps\\TP02\\TP02\\single-image\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a28c39a-73d7-43ec-b691-26cc0c93ccf1" name="Changes" comment="" />
+      <created>1700321235228</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700321235228</updated>
+      <workItem from="1700321236352" duration="55000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
